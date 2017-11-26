@@ -16,12 +16,16 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/service/service4/</loc>
   </url>
   
   <url>
     <loc>/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,7 +35,7 @@
   </url>
   
   <url>
-    <loc>/service/service4/</loc>
+    <loc>/service/service2/</loc>
   </url>
   
   <url>
@@ -48,10 +52,6 @@
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/service/service2/</loc>
   </url>
   
 </urlset>
