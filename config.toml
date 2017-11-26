@@ -1,0 +1,77 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Shbli - Software engineer"
+theme = "hugo-initio"
+publishDir = "docs"
+
+[params]
+    name = "Ahmed Shbli"
+    description = "Software engineer"
+    email = "info@shbli.com"
+    phone = "+1 514 2266677"
+    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2018
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = false
+    showRecentWorks = true
+    showDownload = false
+    showClients = false
+
+#[[menu.main]]
+#    name = "home"
+#    url = "/"
+#    weight = 1
+#[[menu.main]]
+#    name = "blog"
+#    url = "/post/"
+#    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/a_shbli"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/a_shbli"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/shbli"
+    icon = "fa-linkedin-square"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/shbli"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:info@shbli.com"
+    icon = "fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"
