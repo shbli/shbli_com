@@ -9,7 +9,7 @@ publishDir = "docs"
     description = "Software engineer"
     email = "info@shbli.com"
     phone = "+1 514 2266677"
-    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    address = "Presence: 🌎🇺🇸🇨🇦🇰🇼"
     year = 2018
     background = ""
     favicon = "images/gt_favicon.png"
@@ -21,14 +21,14 @@ publishDir = "docs"
     showDownload = false
     showClients = false
 
-#[[menu.main]]
-#    name = "home"
-#    url = "/"
-#    weight = 1
-#[[menu.main]]
-#    name = "blog"
-#    url = "/post/"
-#    weight = 5
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

@@ -41,7 +41,7 @@
     },
     {
         "id": 2,
-        "name": "Warrior towers",
+        "name": "Warrior towers (Open source)",
         "image": "images/warriortowers.jpg",
         "url": "https://www.youtube.com/watch?v=3zgR9HsvQy0",
         "items": [
@@ -57,7 +57,7 @@
     },
     {
         "id": 3,
-        "name": "FuzzyCritters",
+        "name": "FuzzyCritters by PCG",
         "image": "images/fuzzycritters.jpg",
         "url": "http://fuzzycritters.com/",
         "items": [
@@ -93,7 +93,7 @@
     },
     {
         "id": 5,
-        "name": "Omega Tech",
+        "name": "Omega Tech by MWS",
         "image": "images/omegatech.jpg",
         "url": "http://www.omegatechgame.com",
         "items": [
