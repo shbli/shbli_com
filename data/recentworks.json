@@ -98,7 +98,7 @@
         "url": "http://ethereum.org/",
         "items": [
             {
-                "name": "Repo",
+                "name": "Source",
                 "url": "https://github.com/ethereum/go-ethereum"
             }
         ]
