@@ -93,13 +93,13 @@
     },
     {
         "id": 5,
-        "name": "Omega Tech by MWS",
-        "image": "images/omegatech.jpg",
-        "url": "http://www.omegatechgame.com",
+        "name": "Contribute to the Ethereum blockchain",
+        "image": "images/ethereum.jpg",
+        "url": "http://ethereum.org/",
         "items": [
             {
-                "name": "Youtube",
-                "url": "https://www.youtube.com/watch?v=-fQDeJ8rzDU"
+                "name": "Repo",
+                "url": "https://github.com/ethereum/go-ethereum"
             }
         ]
     },
