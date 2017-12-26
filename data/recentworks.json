@@ -41,17 +41,13 @@
     },
     {
         "id": 2,
-        "name": "Warrior towers (Open source)",
-        "image": "images/warriortowers.jpg",
-        "url": "https://www.youtube.com/watch?v=3zgR9HsvQy0",
+        "name": "Contribute to the Ethereum",
+        "image": "images/ethereum.jpg",
+        "url": "http://ethereum.org/",
         "items": [
             {
-                "name": "Youtube",
-                "url": "https://www.youtube.com/watch?v=3zgR9HsvQy0"
-            },
-            {
                 "name": "Source",
-                "url": "https://github.com/shbli/Tower-Warriors/tree/master/Unity3D%20Project/Assets/Scripts"
+                "url": "https://github.com/ethereum/go-ethereum"
             }
         ]
     },
@@ -93,13 +89,17 @@
     },
     {
         "id": 5,
-        "name": "Contribute to the Ethereum",
-        "image": "images/ethereum.jpg",
-        "url": "http://ethereum.org/",
+        "name": "Warrior towers (Open source)",
+        "image": "images/warriortowers.jpg",
+        "url": "https://www.youtube.com/watch?v=3zgR9HsvQy0",
         "items": [
             {
+                "name": "Youtube",
+                "url": "https://www.youtube.com/watch?v=3zgR9HsvQy0"
+            },
+            {
                 "name": "Source",
-                "url": "https://github.com/ethereum/go-ethereum"
+                "url": "https://github.com/shbli/Tower-Warriors/tree/master/Unity3D%20Project/Assets/Scripts"
             }
         ]
     },
