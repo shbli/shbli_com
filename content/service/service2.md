@@ -1,6 +1,6 @@
 +++
 order = 4
-title = "Project managment"
+title = "Blockchain Engineer"
 +++
 
-Project management is about planning, organizing, securing, managing, leading, and controlling resources. Oraia Rift is a perfect example of executing a project plan, I managed over 7 creative professionals.
+Being proficint in C++ and with strong knowledge of common algorithms and data structures. Proficiency in the Qt and cross compilation. I consult for blockchain companies and help them improve on what they currently have.
