@@ -16,19 +16,19 @@
                 "uid": "12ab2a012b77a2c33031a652",
                 "filename": "scene_soundtrack_mono.mp3",
                 "folder": "sounds",
-                "loops": true,
+                "loops": true
             },
             {
                 "uid": "12ab2a012b77a3c33031a652",
                 "filename": "arissa_soundtrack_mono.mp3",
                 "folder": "soundtrack",
-                "loops": true,
+                "loops": true
             },
             {
                 "uid": "12ab3a012b77a3c33031a652",
                 "filename": "uther_soundtrack_mono.mp3",
                 "folder": "sounds",
-                "loops": true,
+                "loops": true
             },
             {
                 "uid": "baymax_01222019_soundtrack",
