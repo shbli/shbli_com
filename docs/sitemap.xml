@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>http://shbli.com/about/</loc>
   </url><url>
-    <loc>/fotogenius/</loc>
+    <loc>http://shbli.com/fotogenius/</loc>
     <lastmod>2023-09-23T16:01:22+01:00</lastmod>
   </url><url>
-    <loc>/fotogenius/privacypolicy/</loc>
+    <loc>http://shbli.com/fotogenius/privacypolicy/</loc>
     <lastmod>2023-09-23T16:01:22+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://shbli.com/</loc>
     <lastmod>2023-09-23T16:01:22+01:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>http://shbli.com/post/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/vivamus-lacus-mauris/</loc>
+    <loc>http://shbli.com/post/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>/service/service3/</loc>
+    <loc>http://shbli.com/service/service3/</loc>
   </url><url>
-    <loc>/service/service4/</loc>
+    <loc>http://shbli.com/service/service4/</loc>
   </url><url>
-    <loc>/service/service1/</loc>
+    <loc>http://shbli.com/service/service1/</loc>
   </url><url>
-    <loc>/service/service2/</loc>
+    <loc>http://shbli.com/service/service2/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://shbli.com/categories/</loc>
   </url><url>
-    <loc>/service/</loc>
+    <loc>http://shbli.com/service/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://shbli.com/tags/</loc>
   </url>
 </urlset>

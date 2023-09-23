@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shbli - Software engineer</title>
-    <link>/</link>
+    <link>http://shbli.com/</link>
     <description>Recent content on Shbli - Software engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 16:01:22 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 16:01:22 +0100</lastBuildDate><atom:link href="http://shbli.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://shbli.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://shbli.com/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
     </item>
     
     <item>
       <title>Privacypolicy</title>
-      <link>/fotogenius/privacypolicy/</link>
+      <link>http://shbli.com/fotogenius/privacypolicy/</link>
       <pubDate>Sat, 23 Sep 2023 16:01:22 +0100</pubDate>
       
-      <guid>/fotogenius/privacypolicy/</guid>
+      <guid>http://shbli.com/fotogenius/privacypolicy/</guid>
       <description>Privacy Policy for FotoGenius App Introduction Welcome to the Privacy Policy for FotoGenius. Your privacy is critically important to us. This Privacy Policy aims to give you information on how we collect and process your personal data through the usage of our app, FotoGenius.
 Data We Collect Personal Data For the purposes of this Privacy Policy, we only collect images and text inputs that you voluntarily provide to us for the purpose of generating images via our app, FotoGenius.</description>
     </item>
     
     <item>
       <title>Vivamus Lacus Mauris</title>
-      <link>/post/vivamus-lacus-mauris/</link>
+      <link>http://shbli.com/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
       
-      <guid>/post/vivamus-lacus-mauris/</guid>
+      <guid>http://shbli.com/post/vivamus-lacus-mauris/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
     </item>
     
     <item>
       <title>Android Engineer</title>
-      <link>/service/service3/</link>
+      <link>http://shbli.com/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/service/service3/</guid>
+      <guid>http://shbli.com/service/service3/</guid>
       <description>Android studio, writing in Java, building Java libraries to be integrated with other SDKs such as Unity3D, I also written apps in C++ using Qt SDK and C# with Unity for Android for over 5 years.</description>
     </item>
     
     <item>
       <title>Apple iOS Engineer</title>
-      <link>/service/service4/</link>
+      <link>http://shbli.com/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/service/service4/</guid>
+      <guid>http://shbli.com/service/service4/</guid>
       <description>9+ years of experience working on iOS, writing in Objective-C, C++ and C#, I have worked on native and cross platform SDKs including xCode, Marmalade, Qt SDK and Unity.</description>
     </item>
     
     <item>
       <title>Backend Engineer</title>
-      <link>/service/service1/</link>
+      <link>http://shbli.com/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/service/service1/</guid>
+      <guid>http://shbli.com/service/service1/</guid>
       <description>Experienced in web technologies including REST, HTTP, TCP, Json and XML APIs, SQL and noSQL databases. I&amp;rsquo;ve worked with Oracle, MS SQL, MySQL and MongoDB for over 4 years.</description>
     </item>
     
     <item>
       <title>Blockchain Engineer</title>
-      <link>/service/service2/</link>
+      <link>http://shbli.com/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/service/service2/</guid>
+      <guid>http://shbli.com/service/service2/</guid>
       <description>Being proficint in C++ and with strong knowledge of common algorithms and data structures. Proficiency in the Qt and cross compilation. I consult for blockchain companies and help them improve on what they currently have.</description>
     </item>
     

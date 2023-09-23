@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fotogeniuses on Shbli - Software engineer</title>
-    <link>/fotogenius/</link>
+    <link>http://shbli.com/fotogenius/</link>
     <description>Recent content in Fotogeniuses on Shbli - Software engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 16:01:22 +0100</lastBuildDate><atom:link href="/fotogenius/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 16:01:22 +0100</lastBuildDate><atom:link href="http://shbli.com/fotogenius/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacypolicy</title>
-      <link>/fotogenius/privacypolicy/</link>
+      <link>http://shbli.com/fotogenius/privacypolicy/</link>
       <pubDate>Sat, 23 Sep 2023 16:01:22 +0100</pubDate>
       
-      <guid>/fotogenius/privacypolicy/</guid>
+      <guid>http://shbli.com/fotogenius/privacypolicy/</guid>
       <description>Privacy Policy for FotoGenius App Introduction Welcome to the Privacy Policy for FotoGenius. Your privacy is critically important to us. This Privacy Policy aims to give you information on how we collect and process your personal data through the usage of our app, FotoGenius.
 Data We Collect Personal Data For the purposes of this Privacy Policy, we only collect images and text inputs that you voluntarily provide to us for the purpose of generating images via our app, FotoGenius.</description>
     </item>
