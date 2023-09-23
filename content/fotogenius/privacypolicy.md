@@ -1,7 +1,7 @@
 ---
 title: "Privacypolicy"
 date: 2023-09-23T16:01:22+01:00
-draft: true
+draft: false
 ---
 
 # Privacy Policy for FotoGenius App
