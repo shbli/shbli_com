@@ -1,6 +1,18 @@
 [
     {
         "id": 0,
+        "name": "FIGs",
+        "image": "images/figs.jpg",
+        "url": "http://wearfigs.com/",
+        "items": [
+            {
+                "name": "App Store",
+                "url": "https://apps.apple.com/us/app/figs/id1503374453"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "name": "KRON",
         "image": "images/kron.png",
         "url": "https://www.kronarc.com/",
@@ -12,7 +24,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "AbeyStore",
         "image": "images/abey.png",
         "url": "https://www.abeystores.com/",
@@ -24,7 +36,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "SpectreCoin",
         "image": "images/spectrecoin.jpg",
         "url": "https://spectreproject.io",
@@ -36,7 +48,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "ThinkEatLift",
         "image": "images/thinkeatlift.jpg",
         "url": "https://thinkeatlift.com/",
@@ -56,7 +68,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Oraia Rift",
         "image": "images/oraiarift.jpg",
         "url": "https://www.youtube.com/watch?v=n_5qbST2V90",
@@ -72,26 +84,6 @@
             {
                 "name": "Google Play",
                 "url": "https://play.google.com/store/apps/details?id=com.compassgames.oraiarift&hl=en"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "FuzzyCritters by PCG",
-        "image": "images/fuzzycritters.jpg",
-        "url": "http://fuzzycritters.com/",
-        "items": [
-            {
-                "name": "Youtube",
-                "url": "https://www.youtube.com/watch?v=oCD3_hxjupw"
-            },
-            {
-                "name": "App Store",
-                "url": "https://itunes.apple.com/ph/app/fuzzy-critters/id1127418133?mt=8"
-            },
-            {
-                "name": "Google Play",
-                "url": "https://play.google.com/store/apps/details?id=com.peoplecorp.fuzzycritters&hl=en"
             }
         ]
     },
